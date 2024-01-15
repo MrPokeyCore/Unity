@@ -122,7 +122,10 @@ section img#mountains_front {
   text-align: center;
 }
 
-
+.lineh2{
+  text-decoration: underline;
+  text-decoration-color: #d40b0b;
+}
 
 
 
@@ -136,11 +139,12 @@ section img#mountains_front {
 
 .l-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 30px;
+  grid-template-columns: repeat(6, 173px);
+  grid-gap: 50px;
   width: 100%;
   max-width: 1200px;
   padding: 30px;
+  text-align: center;
 }
 @media screen and (max-width: 760px) {
   .l-container {
