@@ -139,7 +139,7 @@ section img#mountains_front {
 
 .l-container {
   display: grid;
-  grid-template-columns: repeat(6, 173px);
+  grid-template-columns: repeat(10, 183px);
   grid-gap: 50px;
   width: 100%;
   max-width: 1200px;
